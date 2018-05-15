@@ -1,0 +1,23 @@
+{
+  "name": "scriptoj-solutions",
+  "version": "1.0.0",
+  "description": "https://scriptoj.com/problems?tag=all",
+  "main": "script-oj-101.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FongRay/ScriptOJ-Solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FongRay/ScriptOJ-Solutions/issues"
+  },
+  "homepage": "https://github.com/FongRay/ScriptOJ-Solutions#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}
